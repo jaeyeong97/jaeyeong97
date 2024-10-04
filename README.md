@@ -1,10 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=17413F&height=250&section=header&text=JaeYeong-Jang&fontSize=70&fontColor=EDEBE0" />
 <br />
-
+<div align=center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeong97&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+</div>
 ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
