@@ -2,3 +2,4 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeong97&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jaeyeong97)](https://github.com/anuraghazra/github-readme-stats)
