@@ -5,14 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeong97&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-
-<h3 align=center>📞 Contact</h3>
-
-<div align=center>
-  <a href="mailto:rkaakdbdb1822@naver.com"><img src="https://img.shields.io/badge/rkaakdbdb1822@naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
-</div>
   
-<h3 align=center>📚 Stacks</h3>
+<h3 align=center>📚 Stacks 📚</h3>
 
 <div align=center>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -31,12 +25,24 @@
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
   <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
   <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
-  <img src="https://img.shields.io/badge/env-ECD53F?style=for-the-badge&logo=dotenv&logoColor=white">
+</div>
+
+<h3 align=center>💻 Deploy With 💻</h3>
+
+<div align=center>
   <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </div>
 
+<br />
+
 <div align=center>
   <a href="https://codepen.io/kfzolrvx-the-encoder"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+<h3 align=center>📞 Contact 📞</h3>
+
+<div align=center>
+  <a href="mailto:rkaakdbdb1822@naver.com"><img src="https://img.shields.io/badge/rkaakdbdb1822@naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
 </div>
