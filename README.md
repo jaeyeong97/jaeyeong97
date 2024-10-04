@@ -3,8 +3,6 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeong97&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
   
 <h4 align=center>✨ Stacks ✨</h4>
 
@@ -32,14 +30,14 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </div>
 
-<h3 align=center>💡 My works at💡</h3>
+<h4 align=center>💡 My works at💡</h4>
 
 <div align=center>
   <a href="https://codepen.io/kfzolrvx-the-encoder"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <a href="https://github.com/jaeyeong97?tab=repositories"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
-<h3 align=center>📪 Contact 📪</h3>
+<h3 align=center>📪 Contact with📪</h3>
 
 <div align=center>
   <a href="mailto:rkaakdbdb1822@naver.com"><img src="https://img.shields.io/badge/rkaakdbdb1822@naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
