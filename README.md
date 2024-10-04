@@ -9,7 +9,7 @@
 <h3 align=center>📞 Contact</h3>
 
 <div align=center>
-  <a href="mailto:rkaakdbdb1822@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
+  <a href="mailto:rkaakdbdb1822@naver.com"><img src="https://img.shields.io/badge/rkaakdbdb1822@naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
 </div>
   
 <h3 align=center>📚 Stacks</h3>
