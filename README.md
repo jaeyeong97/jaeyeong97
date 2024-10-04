@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=17413F&height=250&section=header&text=JaeYeong-Jang&fontSize=50&fontColor=EDEBE0" />
+<div align=center><img src="https://capsule-render.vercel.app/api?type=Venom&color=17413F&height=250&section=header&text=JaeYeong-Jang&fontSize=50&fontColor=EDEBE0" /></div>
 
 <br />
   
