@@ -37,6 +37,10 @@
   <a href="mailto:rkaakdbdb1822@naver.com"><img src="https://img.shields.io/badge/rkaakdbdb1822@naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jaeyeong97&theme=onedark&locale=ko" alt="GitHub Streak" /></a>
+<br />
+<br />
+
+<div align=center><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jaeyeong97&theme=onedark&locale=ko" alt="GitHub Streak" /></a></div>
+
 <br />
 <br />
