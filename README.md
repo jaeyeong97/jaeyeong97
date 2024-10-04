@@ -1,4 +1,4 @@
-<div align=center><img src="https://capsule-render.vercel.app/api?type=Rounded&color=17413F&height=200&section=header&text=Welcome to my GitHub!&fontSize=50&fontColor=EDEBE0" /></div>
+<div align=center><img src="https://capsule-render.vercel.app/api?type=Round&color=17413F&height=200&section=header&text=Welcome to my GitHub!&fontSize=50&fontColor=EDEBE0" /></div>
 
 <br />
   
