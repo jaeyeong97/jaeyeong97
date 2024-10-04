@@ -1,7 +1,3 @@
-<div align=center><img src="https://capsule-render.vercel.app/api?type=venom&color=17413F&height=150&section=header&text=JaeYeong&nbsp;Jang&fontSize=30&fontColor=EDEBE0"/></div>
-
-<br />
-  
 <h4 align=center>✨ Tech Stacks ✨</h4>
 
 <div align=center>
@@ -41,5 +37,6 @@
   <a href="mailto:rkaakdbdb1822@naver.com"><img src="https://img.shields.io/badge/rkaakdbdb1822@naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jaeyeong97&theme=onedark&locale=ko" alt="GitHub Streak" /></a>
 <br />
 <br />
