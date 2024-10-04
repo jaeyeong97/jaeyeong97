@@ -1,4 +1,4 @@
-<div align=center style="width: 50%;><img src="https://capsule-render.vercel.app/api?type=rounded&color=17413F&height=150&section=header&text=Welcome&nbsp;to&nbsp;my&nbsp;GitHub&fontSize=30&fontColor=EDEBE0"/></div>
+<div align=center><img src="https://capsule-render.vercel.app/api?type=venom&color=17413F&height=150&section=header&text=Welcome&nbsp;to&nbsp;my&nbsp;GitHub&fontSize=30&fontColor=EDEBE0"/></div>
 
 <br />
   
